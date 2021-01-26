@@ -12,3 +12,5 @@ _deps
 *.o
 *.d
 build/*
+.deps/*
+
